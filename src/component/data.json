@@ -1,0 +1,76 @@
+[
+    {
+        "coffie": "AFFOGATO",
+        "discription" : "Espresso poured on a vanilla ice cream. Served in a cappuccino cup.",
+        "amount" : "5$",
+        "id" : "1"
+    },
+    {
+        "coffie": "ESPRESSO",
+        "discription" : "A short, strong drink (about 30 ml) served in an espresso cup.",
+        "amount" : "4$",
+        "id" : "2"
+    },
+    {
+        "coffie": "DOUBESPRESSO",
+        "discription" : "Double portion of espresso in a cappuccino/espresso cup.",
+        "amount" : "15$",
+        "id" : "3"
+    },
+    {
+        "coffie": "RISTRETTO",
+        "discription" : "Espresso with a little milk foam (drink size about 50 ml).",
+        "amount" : "6$",
+        "id" : "4"
+    },
+    {
+        "coffie": "ESPRESSO MACCHIATO",
+        "discription" : "A very short shot of espresso (about 20 ml). Served in an espresso cup.",
+        "amount" : "5$",
+        "id" : "5"
+    },
+    {
+        "coffie": "FLAT WHITE",
+        "discription" : "A coffee drink with a double espresso and lightly frosted milk (About 150–240 ml). Served in a glass.",
+        "amount" : "8$",
+        "id" : "6"
+    },
+    {
+        "coffie": "ICED MOCHA",
+        "discription" : "Cold Caffè mocha. Prepared like iced latte, but garnished and flavoured like caffè mocha (about 300 ml). Served in a latte glass.",
+        "amount" : "5$",
+        "id" : "7"
+    },
+
+
+    {
+        "coffie": "LUNGO",
+        "discription" : "An espresso pulled long (50–60 ml). Served in an espresso/cappuccino cup. Served in an espresso cup.",
+        "amount" : "15$",
+        "id" : "8"
+    },
+    {
+        "coffie": "IRISH COFFEE ICEY",
+        "discription" : "Espresso with a little milk foam (drink size about 50 ml) and a bit of ice with heavy coffe. Served in an espresso cup.",
+        "amount" : "6$",
+        "id" : "9"
+    },
+    {
+        "coffie": "ICED LATTE",
+        "discription" : "A coffee drink with a double espresso and lightly frosted milk (About 150–240 ml). Served in an espresso cup.",
+        "amount" : "5$",
+        "id" : "10"
+    },
+    {
+        "coffie": "FREAKSHAKE",
+        "discription" : "A coffee drink with a double espresso and lightly frosted milk (About 150–240 ml). Served in a glass.",
+        "amount" : "8$",
+        "id" : "11"
+    },
+    {
+        "coffie": "FRAPPÉ",
+        "discription" : "Cold Caffè mocha. Prepared like iced latte, but garnished and flavoured like caffè mocha (about 300 ml). Served in a latte glass.",
+        "amount" : "5$",
+        "id" : "12"
+    }
+]
