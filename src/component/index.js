@@ -1,4 +1,4 @@
-import React from "react";
+import React,{useState} from "react";
 import NavBar from "./NavBar";
 import Show from "./showItems";
 import Footer from "./footer";
@@ -154,9 +154,10 @@ class Catalogoue extends React.Component {
   };
 
   render() {
+ 
     return (
       <>
-        <NavBar
+        <NavBar           
           cartValue={this.state.cart.length}
           countinueShoping={this.countinueShopping}
           checkOut={this.checkOutCartItems}

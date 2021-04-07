@@ -74,10 +74,7 @@ const DefineCart = (rows, GoBack, orderPlaced) => {
           </TableBody>
         </Table>
       </TableContainer>
-      <div className={classes.btn}>
-        <Button variant="contained" color="secondary" onClick={() => GoBack()}>
-          Go Back
-        </Button>
+      <div className={classes.btn}>        
         <Button
           variant="contained"
           color="secondary"

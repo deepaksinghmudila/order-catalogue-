@@ -49,8 +49,10 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-const NavBar = ({ cartValue, countinueShoping, checkOut }) => {
+
+const NavBar = ({ setsearch, cartValue, countinueShoping, checkOut }) => {
   const classes = useStyles();
+  
 
   return (
     <Navbar bg="dark" variant="dark">
@@ -71,7 +73,7 @@ const NavBar = ({ cartValue, countinueShoping, checkOut }) => {
                 input: classes.inputInput,
               }}
               inputProps={{ "aria-label": "search" }}
-              onChange={}
+              onchange={e=>setsearch(e.target.value)}
             />
           </div>
         </Toolbar>
@@ -82,9 +84,9 @@ const NavBar = ({ cartValue, countinueShoping, checkOut }) => {
               <ShoppingCartIcon style={{ color: blue[50] }} />
             </a>
           </Badge>
-        </Nav>
+        </Nav>                             
       </div>
-    </Navbar>
+    </Navbar>                           
   );
 };
 

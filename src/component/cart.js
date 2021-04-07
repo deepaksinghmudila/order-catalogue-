@@ -113,14 +113,7 @@ const DefineCart = (
           </TableBody>
         </Table>
       </TableContainer>
-      <div className={classes.btn}>
-        <Button
-          variant="contained"
-          color="secondary"
-          onClick={() => countinueShopping()}
-        >
-          Continue Shopping
-        </Button>
+      <div className={classes.btn}>        
         <Button
           variant="contained"
           color="secondary"

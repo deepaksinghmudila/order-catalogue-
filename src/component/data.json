@@ -13,7 +13,7 @@
     },
     {
         "coffie": "DOUBESPRESSO",
-        "discription" : "Double portion of espresso in a cappuccino/espresso cup.",
+        "discription" : "Double portion of espresso.",
         "amount" : "15$",
         "id" : "3"
     },
@@ -37,7 +37,7 @@
     },
     {
         "coffie": "ICED MOCHA",
-        "discription" : "Cold Caffè mocha. Prepared like iced latte, but garnished and flavoured like caffè mocha (about 300 ml). Served in a latte glass.",
+        "discription" : "Cold Caffè mocha.Garnished and flavoured like caffè mocha (about 300 ml). Served in a latte glass.",
         "amount" : "5$",
         "id" : "7"
     },
@@ -51,7 +51,7 @@
     },
     {
         "coffie": "IRISH COFFEE ICEY",
-        "discription" : "Espresso with a little milk foam (drink size about 50 ml) and a bit of ice with heavy coffe. Served in an espresso cup.",
+        "discription" : "Espresso with a little milk foam and a bit of ice with heavy coffe. Served in an espresso cup.",
         "amount" : "6$",
         "id" : "9"
     },
@@ -69,7 +69,7 @@
     },
     {
         "coffie": "FRAPPÉ",
-        "discription" : "Cold Caffè mocha. Prepared like iced latte, but garnished and flavoured like caffè mocha (about 300 ml). Served in a latte glass.",
+        "discription" : "Cold Caffè mocha.Garnished and flavoured like caffè mocha. Served in a latte glass.",
         "amount" : "5$",
         "id" : "12"
     }
